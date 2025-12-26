@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Data-driven projects focused on data cleaning, exploration, and analysis Building ETL and data pipeline workflows using Python  Real-world datasets involving sales, real estate, and business insights<br><br>
-👯 I’m looking to collaborate on<br><br>Data analysis and analytics projects<br><br>Python-based ETL pipelines<br><br>Power BI / Tableau dashboard projects<br><br>Open-source data-related repositories<br><br>🤝 I’m looking for help with<br><br>Advanced SQL optimization<br><br>Scalable data pipelines<br><br>Best practices in data analytics projects<br><br>Industry-level analytics use cases<br><br>🌱 I’m currently learning<br><br>Data Analysis (end-to-end workflow)<br><br>Data Cleaning, Exploration & Feature Engineering<br><br>Extracting data from multiple sources<br><br>Building automated data pipelines using Python<br><br>Advanced Power BI (DAX & Data Modeling)<br><br>💬 Ask me about<br><br>Python for Data Analysis<br><br>Pandas, NumPy, Matplotlib, Seaborn<br><br>SQL for analytics<br><br>Power BI, Tableau & Excel dashboards<br><br>ETL processes and data modeling<br><br>⚡ Fun fact<br><br>I enjoy turning messy raw data into meaningful insights 📊
+👯 I’m looking to collaborate on Data analysis and analytics projects<br><br>Python-based ETL pipelines Power BI / Tableau dashboard projects Open-source data-related repositories<br><br>
+🤝 I’m looking for help with Advanced SQL optimization Scalable data pipelines Best practices in data analytics projects Industry-level analytics use cases<br><br>
+🌱 I’m currently learning Data Analysis (end-to-end workflow) Data Cleaning, Exploration & Feature Engineering Extracting data from multiple sources Building automated data pipelines using Python Advanced Power BI (DAX & Data Modeling)<br><br>
+💬 Ask me about Python for Data Analysis Pandas, NumPy, Matplotlib, Seaborn SQL for analytics Power BI, Tableau & Excel dashboards ETL processes and data modeling <br><br>
+⚡ Fun fact I enjoy turning messy raw data into meaningful insights 📊
 
 
 # 💻 Tech Stack:
