@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Data-driven projects focused on data cleaning, exploration, and analysis Building ETL and data pipeline workflows using Python  Real-world datasets involving sales, real estate, and business insights<br><br>
+🔭 🔭 I’m currently working on Building scalable backend systems using Python & FastAPI Designing REST APIs with clean architecture and real-world use cases
+Developing data-driven backend services (integrating APIs with databases) Working on projects like job processing systems, student management systems, and analytics-backed APIs<br><br>
 👯 I’m looking to collaborate on Data analysis and analytics projects Python-based ETL pipelines Power BI / Tableau dashboard projects Open-source data-related repositories<br><br>
 🤝 I’m looking for help with Advanced SQL optimization Scalable data pipelines Best practices in data analytics projects Industry-level analytics use cases<br><br>
 🌱 I’m currently learning Data Analysis (end-to-end workflow) Data Cleaning, Exploration & Feature Engineering Extracting data from multiple sources Building automated data pipelines using Python Advanced Power BI (DAX & Data Modeling)<br><br>
