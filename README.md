@@ -1,11 +1,12 @@
 # 💫 About Me:
-🔭 🔭 I’m currently working on Building scalable backend systems using Python & FastAPI Designing REST APIs with clean architecture and real-world use cases
+🔭 I’m currently working on Building scalable backend systems using Python & FastAPI Designing REST APIs with clean architecture and real-world use cases
 Developing data-driven backend services (integrating APIs with databases) Working on projects like job processing systems, student management systems, and analytics-backed APIs<br><br>
-👯 I’m looking to collaborate on Data analysis and analytics projects Python-based ETL pipelines Power BI / Tableau dashboard projects Open-source data-related repositories<br><br>
-🤝 I’m looking for help with Advanced SQL optimization Scalable data pipelines Best practices in data analytics projects Industry-level analytics use cases<br><br>
-🌱 I’m currently learning Data Analysis (end-to-end workflow) Data Cleaning, Exploration & Feature Engineering Extracting data from multiple sources Building automated data pipelines using Python Advanced Power BI (DAX & Data Modeling)<br><br>
-💬 Ask me about Python for Data Analysis Pandas, NumPy, Matplotlib, Seaborn SQL for analytics Power BI, Tableau & Excel dashboards ETL processes and data modeling <br><br>
-⚡ Fun fact I enjoy turning messy raw data into meaningful insights 📊
+👯 I’m looking to collaborate onvBackend development projects using FastAPI / Django API design & microservices-based architectures Database-driven applications (PostgreSQL, MySQL)
+Open-source backend or system design projects<br><br>
+🤝Designing scalable backend architectures API performance optimization & caching (Redis) System design concepts (load handling, queues, async processing) Writing production-level clean and maintainable backend code<br><br>
+🌱 I’m currently learning Advanced FastAPI concepts (async, dependency injection, background tasks) Database optimization & ORM (SQLAlchemy) Authentication systems (JWT, OAuth) Docker & deployment workflows System Design fundamentals (scalability, distributed systems)<br><br>
+💬 Ask me about Python backend development (FastAPI, Django) REST API design & best practices Database integration (SQLAlchemy, raw SQL) Authentication & authorization systems Building real-world backend projects from scratch<br><br>
+⚡I enjoy building backend systems that not only work efficiently but also handle real-world complexity like a pro 🚀 📊
 
   
 # 💻 Tech Stack:
